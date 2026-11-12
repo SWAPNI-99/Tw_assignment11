@@ -63,11 +63,11 @@ academic-tools-portfolio/
 
 ## 👤 Author Information
 
-- **Student Name:** [Your Name Here]
-- **Roll Number / Student ID:** [Your Roll Number]
-- **Course / Subject:** Computer Science Laboratory / Software Tools
-- **Semester / Year:** [Semester / Year]
-- **Instructor / Professor:** [Professor's Name]
+- **Student Name:** Swapnil Joshirao
+- **Student ID / Roll Number:** 2025UCP1367
+- **Course / Subject:** Technical Writing
+- **Instructor / Professor:** Prof. Neeta Nain
+- **Institution:** Malaviya National Institute of Technology (MNIT), Jaipur
 
 ---
 
