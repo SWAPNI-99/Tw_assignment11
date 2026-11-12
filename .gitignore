@@ -1,0 +1,33 @@
+# LaTeX temporary compilation files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.lot
+*.lof
+
+# Beamer temporary navigation files
+*.nav
+*.snm
+*.vrb
+
+# Doxygen output folders
+docs/html/
+docs/latex/
+Doxyfile.bak
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
